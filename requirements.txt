@@ -1,10 +1,5 @@
---prefer-binary
 pandas==1.5.3
 numpy==1.23.5
-scipy==1.10.1
-matplotlib==3.7.1
-streamlit==1.25.0
-scikit-learn==1.2.2
-seaborn==0.12.2
-requests==2.31.0
-plotly==5.15.0
+streamlit
+setuptools
+wheel
