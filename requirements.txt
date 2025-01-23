@@ -3,3 +3,4 @@ numpy>=1.24.0
 streamlit
 setuptools
 wheel
+gunicorn>=20.1.0
