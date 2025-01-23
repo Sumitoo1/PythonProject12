@@ -5,3 +5,5 @@ setuptools
 wheel
 gunicorn>=20.1.0
 matplotlib
+plotly
+wordcloud  # <== Missing in your file
